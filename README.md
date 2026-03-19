@@ -1,4 +1,3 @@
-# Azure IAM
 # Azure Secure Identity & Access Control Automation
 
 Automate the full lifecycle of Azure network and identity setup using **Azure CLI** and **Bash scripting** — eliminating manual portal clicks, enforcing least-privilege access, and producing a repeatable, auditable deployment script.
